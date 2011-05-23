@@ -9,7 +9,7 @@ gem 'sqlite3-ruby', :require => 'sqlite3'
 
 # Use unicorn as the web server
 # gem 'unicorn'
-
+gem 'rake', '~> 0.8.7'
 # Deploy with Capistrano
 # gem 'capistrano'
 
